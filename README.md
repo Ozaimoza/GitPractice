@@ -1,2 +1,2 @@
 #### Ini Readme belajar git
-belajar stash
+belajar stash asdf
